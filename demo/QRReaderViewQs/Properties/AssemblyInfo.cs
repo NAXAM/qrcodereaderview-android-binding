@@ -6,13 +6,13 @@ using Android.App;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Naxam.QRCodeReaderView.Droid")]
-[assembly: AssemblyDescription("Xamarin Binding Library - QRCodeReaderView")]
+[assembly: AssemblyTitle("QRReaderViewQs")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("NAXAM COMPANY LIMITED")]
-[assembly: AssemblyProduct("X Bindings")]
-[assembly: AssemblyCopyright("Copyright © 2017 NAXAM")]
-[assembly: AssemblyTrademark("NAXAM")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("QRReaderViewQs")]
+[assembly: AssemblyCopyright("Copyright ©  2017")]
+[assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: ComVisible(false)]
 

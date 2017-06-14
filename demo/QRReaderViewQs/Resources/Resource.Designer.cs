@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("Naxam.QRCodeReaderView.Droid.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("QRReaderViewQs.Resource", IsApplication=true)]
 
-namespace Naxam.QRCodeReaderView.Droid
+namespace QRReaderViewQs
 {
 	
 	

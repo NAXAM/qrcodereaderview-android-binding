@@ -2,9 +2,9 @@
 using Android.Widget;
 using Android.OS;
 
-namespace Naxam.QRCodeReaderView.Droid
+namespace QRReaderViewQs
 {
-    [Activity(Label = "Naxam.QRCodeReaderView.Droid", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "QRReaderViewQs", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity
     {
         protected override void OnCreate(Bundle bundle)
